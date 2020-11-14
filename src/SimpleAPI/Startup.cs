@@ -35,7 +35,7 @@ namespace SimpleAPI
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            //disable https redirection
             //app.UseHttpsRedirection();
 
             app.UseRouting();
