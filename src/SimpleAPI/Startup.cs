@@ -36,7 +36,7 @@ namespace SimpleAPI
                 app.UseDeveloperExceptionPage();
             }
 
-
+            //adddd
             app.UseRouting();
 
             app.UseAuthorization();
